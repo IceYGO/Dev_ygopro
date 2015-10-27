@@ -1,6 +1,7 @@
 bin
 obj
 build
+buildVS2010
 release
 *.o
 *.dll
